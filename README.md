@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pocketlint60
 - 👀 I’m interested in ... game development, especially design
 - 🌱 I’m currently learning ... Unity Game Engine & C#
-- 💞️ I’m looking to collaborate on ... nothing yet, but definitely something in the near future!
+- 💞️ I’m looking to collaborate on ... just about anything; I want to start contributing!
 - 📫 How to reach me ... pocketdev60@gmail.com
 
 <!---
